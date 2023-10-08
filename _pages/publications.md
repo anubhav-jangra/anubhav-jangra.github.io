@@ -10,13 +10,13 @@ For an updated list, kindly refer to my [Google Scholar's page](https://scholar.
 
 ## Conferences
 
-* Yash Verma\*, **Anubhav Jangra**\*, Raghvendra Kumar, Sriparna Saha. Large Scale Multi-Lingual Multi-Modal Summarization Dataset. Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics. \[[Paper](https://aclanthology.org/2023.eacl-main.263/)\]
+* Sourajit Mukherjee, Adam Jatowt, Raghvendra Kumar, **Anubhav Jangra**, Sriparna Saha. Can Multimodal Pointer Generator Transformers Produce Topically Relevant Summaries? 2023 International Joint Conference on Neural Networks (IJCNN). \[[Paper](https://ieeexplore.ieee.org/abstract/document/10192022)\]
 
-* Sourajit Mukherjee, **Anubhav Jangra**, Sriparna Saha, Adam Jatowt. Topic-aware multimodal summarization. Findings of the Association for Computational Linguistics: AACL-IJCNLP 2022. \[[Paper](https://aclanthology.org/2022.findings-aacl.36/)\]
+* Yash Verma\*, **Anubhav Jangra**\*, Raghvendra Kumar, Sriparna Saha. Large Scale Multi-Lingual Multi-Modal Summarization Dataset. Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics. \[[Paper](https://aclanthology.org/2023.eacl-main.263/)\]
 
 * **Anubhav Jangra**\*, Preksha Nema, Aravindan Raghuveer. T-STAR: Truthful Style Transfer using AMR Graph as Intermediate Representation. The 2022 Conference on Empirical Methods in Natural Language Processing, 2022. \[[Paper](https://aclanthology.org/2022.emnlp-main.602/)\]
 
-* Sourajit Mukherjee, Adam Jatowt, Raghvendra Kumar, **Anubhav Jangra**, Sriparna Saha. Can Multimodal Pointer Generator Transformers Produce Topically Relevant Summaries? 2023 International Joint Conference on Neural Networks (IJCNN). \[[Paper](https://ieeexplore.ieee.org/abstract/document/10192022)\]
+* Sourajit Mukherjee, **Anubhav Jangra**, Sriparna Saha, Adam Jatowt. Topic-aware multimodal summarization. Findings of the Association for Computational Linguistics: AACL-IJCNLP 2022. \[[Paper](https://aclanthology.org/2022.findings-aacl.36/)\]
 
 * Prince Jha, Gaël Dias, Alexis Lechervy, José G Moreno, **Anubhav Jangra**, Sebastião Pais, Sriparna Saha. Combining Vision and Language Representations for Patch-based Identification of Lexico-Semantic Relations. 30th ACM International Conference on Multimedia, 2022. \[[Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548299)\]
 

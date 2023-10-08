@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Anubhav"
   avatar           : "anubhav.jpeg"
-  bio              : "Pre-doctoral Researcher, Google Research India"
-  location         : "Hisar, Haryana, India"
+  bio              : "CS PhD, Columbia University"
+  location         : "New York, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.in/citations?user=_f9B45kAAAAJ&hl=en#"
-  email            : "emailofanubhav@gmail.com"
+  email            : "anubhav0603@gmail.com"
   researchgate     :  https://www.researchgate.net/profile/Anubhav_Jangra2
   uri              :
   bitbucket        :
@@ -185,7 +185,7 @@ collections:
     output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
