@@ -15,12 +15,13 @@ Research Interests
 ======
 * Natural Language Processing
   * Summarization
-* Information Retrieval
-* Deep Learning
-* Multi-modal Content Processing
-  * Multi-modal Summarization
+  * Multi-modal Summarization (check out our [survey paper](https://dl.acm.org/doi/full/10.1145/3584700))
+  * Text Style Transfer
+* Information Retrieval 
+  * Question Answering (check out our [survey paper](https://arxiv.org/abs/2204.09140) on multi-hop QA)
 * A.I. for Social Good
-  * Using A.I. systems to provide affordable and quality education
+  * Using NLP to facilitate more affordable and high quality education
+    * Automatic Hint Generation (check out our [survey paper](https://arxiv.org/abs/2404.04728))
 
 
 <!-- Skills
