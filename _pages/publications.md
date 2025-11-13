@@ -9,9 +9,9 @@ For an updated list, kindly refer to my [Google Scholar's page](https://scholar.
 
 ## Preprints
 
-* **Anubhav Jangra**, Jamshid Mozafari, Adam Jatowt, Smaranda Muresan. Navigating the Landscape of Hint Generation Research: From the Past to the Future. \[[Link](https://arxiv.org/abs/2404.04728)\]
+* **Anubhav Jangra**, Smaranda Muresan. Designing and Evaluating Hint Generation Systems for Science Education. \[[Link](https://arxiv.org/abs/2510.21087)\]
 
-* Raghav Jain, **Anubhav Jangra**, Sriparna Saha, Adam Jatowt. A survey on medical document summarization. \[[Link](https://arxiv.org/abs/2212.01669)\]
+* **Anubhav Jangra**, Bahareh Sarrafzadeh, Silviu Cucerzan, Adrian de Wynter\*, Sujay Kumar Jauhar\*. Evaluating Style-Personalized Text Generation: Challenges and Directions. \[[Link](https://arxiv.org/abs/2508.06374)\]
 
 ## Conferences
 
@@ -41,6 +41,10 @@ For an updated list, kindly refer to my [Google Scholar's page](https://scholar.
 
 
 ## Journals
+
+* **Anubhav Jangra**, Jamshid Mozafari, Adam Jatowt, Smaranda Muresan. Navigating the Landscape of Hint Generation Research: From the Past to the Future. Transactions of the Association for Computational Linguistics 2025. \[[Link](https://doi.org/10.1162/tacl_a_00751)\]
+
+* Akash Ghosh, Raghav Jain, **Anubhav Jangra**, Sriparna Saha, Adam Jatowt. A survey on medical document summarization. WIREs Data Mining and Knowledge Discovery. \[[Link](https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/widm.70045)\]
 
 * **Anubhav Jangra**, Sourajit Mukherjee, Adam Jatowt, Sriparna Saha, Mohammed Hasanuzzaman. A Survey on Multi-modal Summarization. ACM Computing Surveys \[[Link](https://dl.acm.org/doi/full/10.1145/3584700)\]
 
