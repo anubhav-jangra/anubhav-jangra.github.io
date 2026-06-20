@@ -9,9 +9,11 @@ For an updated list, kindly refer to my [Google Scholar's page](https://scholar.
 
 ## Preprints
 
+* Milad Alshomary, Grace Li, **Anubhav Jangra**, Yufang Hou, Kathleen McKeown, Smaranda Muresan. LLMs as Science Journalists: Supporting Early-stage Researchers in Communicating Their Science to the Public. \[[Link](https://arxiv.org/abs/2601.05821)\]
+
 * **Anubhav Jangra**, Smaranda Muresan. Designing and Evaluating Hint Generation Systems for Science Education. \[[Link](https://arxiv.org/abs/2510.21087)\]
 
-* **Anubhav Jangra**, Bahareh Sarrafzadeh, Silviu Cucerzan, Adrian de Wynter\*, Sujay Kumar Jauhar\*. Evaluating Style-Personalized Text Generation: Challenges and Directions. \[[Link](https://arxiv.org/abs/2508.06374)\]
+* **Anubhav Jangra**, Bahareh Sarrafzadeh, Silviu Cucerzan, Adrian de Wynter\*, Sujay Kumar Jauhar\*. Evaluating Style-Personalized Text Generation: Challenges and Directions. Non-archival at GEM'26. \[[Link](https://arxiv.org/abs/2508.06374)\]
 
 ## Conferences
 
@@ -41,6 +43,8 @@ For an updated list, kindly refer to my [Google Scholar's page](https://scholar.
 
 
 ## Journals
+
+* Karli R Hochstatter, Talia Nadel, Raavi Gupta, **Anubhav Jangra**, Nicole D'Anna, Jan Gryczynski, Yuxin Li, Jason Graham, Hannah Johnson, Nabila El-Bassel, Ziqing Yang, Smaranda Muresan. Human-centered artificial intelligence framework for overdose mortality surveillance. American Journal of Public Health (AJPH), 2026. \[pdf coming soon\]
 
 * **Anubhav Jangra**, Jamshid Mozafari, Adam Jatowt, Smaranda Muresan. Navigating the Landscape of Hint Generation Research: From the Past to the Future. Transactions of the Association for Computational Linguistics 2025. \[[Link](https://doi.org/10.1162/tacl_a_00751)\]
 
