@@ -9,13 +9,21 @@ For an updated list, kindly refer to my [Google Scholar's page](https://scholar.
 
 ## Preprints
 
+* **Anubhav Jangra**, Smaranda Muresan. *DivAlgo*: A Systematic Evaluation of Algorithmic Diversity for Code Generation Models. \[[Link](https://arxiv.org/abs/2610.19157)\]
+
+* **Anubhav Jangra**, Adrian de Wynter. *Fantastic Metrics and How to Find Them*: Meta-Evaluating Metrics for Multi-lingual SPTG. \[[Link](https://arxiv.org/abs/2610.19166)\]
+
+* Ziqing Yang\*, **Anubhav Jangra**\*, Smaranda Muresan. *CREATE*: Creativity Evaluation of VLMs using the Visual Remote Associates Test. \[[Link](https://arxiv.org/abs/2610.18569)\]
+
+* Raavi Gupta, Ziqing Yang, Karli R. Hochstatter, Talia Nadel, Nicole D'Anna, Jason K. Graham, Hannah Johnson, Kelsey Opozda, Nabila El-Bassel, **Anubhav Jangra**, Smaranda Muresan. Evidence-Anchored Overdose Death Prediction from Death Investigation Reports. \[[Link](https://arxiv.org/abs/2610.19556)\]
+
 * Milad Alshomary, Grace Li, **Anubhav Jangra**, Yufang Hou, Kathleen McKeown, Smaranda Muresan. LLMs as Science Journalists: Supporting Early-stage Researchers in Communicating Their Science to the Public. \[[Link](https://arxiv.org/abs/2601.05821)\]
 
 * **Anubhav Jangra**, Smaranda Muresan. Designing and Evaluating Hint Generation Systems for Science Education. \[[Link](https://arxiv.org/abs/2510.21087)\]
 
-* **Anubhav Jangra**, Bahareh Sarrafzadeh, Silviu Cucerzan, Adrian de Wynter\*, Sujay Kumar Jauhar\*. Evaluating Style-Personalized Text Generation: Challenges and Directions. Non-archival at GEM'26. \[[Link](https://arxiv.org/abs/2508.06374)\]
-
 ## Conferences
+
+* **Anubhav Jangra**, Bahareh Sarrafzadeh, Silviu Cucerzan, Adrian de Wynter\*, Sujay Kumar Jauhar\*. Evaluating Style-Personalized Text Generation: Challenges and Directions. The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP), Budapest, Hungary (main). Also presented non-archivally at GEM'26 (ACL 2026). \[[Link](https://arxiv.org/abs/2508.06374)\]
 
 * Jamshid Mozafari, **Anubhav Jangra**, Adam Jatowt. TriviaHG: A Dataset for Automatic Hint Generation for Factoid Questions. The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval, Wash. D.C., USA. \[[Link](https://dl.acm.org/doi/10.1145/3626772.3657855)\]
 
@@ -44,7 +52,7 @@ For an updated list, kindly refer to my [Google Scholar's page](https://scholar.
 
 ## Journals
 
-* Karli R Hochstatter, Talia Nadel, Raavi Gupta, **Anubhav Jangra**, Nicole D'Anna, Jan Gryczynski, Yuxin Li, Jason Graham, Hannah Johnson, Nabila El-Bassel, Ziqing Yang, Smaranda Muresan. Human-centered artificial intelligence framework for overdose mortality surveillance. American Journal of Public Health (AJPH), 2026. \[pdf coming soon\]
+* Karli R Hochstatter, Talia Nadel, Raavi Gupta, **Anubhav Jangra**, Nicole D'Anna, Jan Gryczynski, Yuxin Li, Jason Graham, Hannah Johnson, Nabila El-Bassel, Ziqing Yang, Smaranda Muresan. Human-centered artificial intelligence framework for overdose mortality surveillance. American Journal of Public Health (AJPH), 2026. \[[Link](https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2026.308698)\]
 
 * **Anubhav Jangra**, Jamshid Mozafari, Adam Jatowt, Smaranda Muresan. Navigating the Landscape of Hint Generation Research: From the Past to the Future. Transactions of the Association for Computational Linguistics 2025. \[[Link](https://doi.org/10.1162/tacl_a_00751)\]
 
@@ -58,6 +66,6 @@ For an updated list, kindly refer to my [Google Scholar's page](https://scholar.
 
 ## Books
 
-* Vaibhav Mavi, **Anubhav Jangra**, Adam Jatowt. Multi-hop Question Answering. \[[Link](http://dx.doi.org/10.1561/1500000102)\]
+* Vaibhav Mavi, **Anubhav Jangra**, Adam Jatowt. Multi-hop Question Answering. Foundations and Trends in Information Retrieval 2024. \[[Link](http://dx.doi.org/10.1561/1500000102)\]
 
 \* - equal contribution
